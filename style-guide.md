@@ -1,0 +1,29 @@
+# Front-end Style Guide
+
+## Colors
+
+### Primary
+
+- Very dark blue (main background):
+- Dark desaturated blue (card background):
+- Soft violet (accent):
+
+### Neutral
+
+- White (main heading, stats):
+- Slightly transparent white (main paragraph):
+- Slightly transparent white (stat headings):
+
+## Typography
+
+### Body Copy
+
+- Font size: 15px
+
+### Font
+
+- Family: [Inter](https://fonts.google.com/specimen/Inter)
+- Weights: 400, 700
+
+- Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
+- Weights: 400
