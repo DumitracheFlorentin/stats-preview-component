@@ -1,6 +1,7 @@
 html {
   font-size: 100%;
   box-sizing: border-box;
+  font-family: var(--font-inter);
 }
 
 *,
@@ -10,6 +11,8 @@ html {
 }
 
 body {
+  height: 100vh;
+  background-color: var(--very-dark-blue);
   margin: 0;
   padding: 0;
 }
