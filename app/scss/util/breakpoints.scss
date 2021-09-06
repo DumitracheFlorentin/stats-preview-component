@@ -1,12 +1,13 @@
-// 500px, 1400px
+// 500px, 1000px, 1400px
 $breakpoints-up: (
   "mobile": "31.25em",
   "desktop": "87.5em",
 );
 
-// 499px, 1399px
+// 499px, 1249px, 1399px
 $breakpoints-down: (
   "mobile": "31.1875em",
+  "tablet": "78.0625em",
   "desktop": "87.4375em",
 );
 
